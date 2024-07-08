@@ -40,3 +40,5 @@ func main() {
 	b.val = c.val
 	printEnd(a,b,c)
 }
+
+// you should say what will be printed
